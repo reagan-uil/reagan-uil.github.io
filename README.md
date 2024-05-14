@@ -1,10 +1,11 @@
-#Events: 
-  ##Debate
+# Welcome to the Reagan UIL website!
+# Our Events: 
+  ## Debate
     CX, Speaking, Congress
-  ##Journalism
+  ## Journalism
     News Writing (45 minutes), Feature Writing (60 minutes), Editorial Writing (45 minutes), Headline Writing (30 minutes) and Copy Editing (15 minutes)
     all under journalism
-  ##STEM
+  ## STEM
     (Math, NS, Calc) all under math, Sci, Comp Sci
-  ##Other
+  ## Other
     Social, Ready Write, Lit. Crit, OAP, Current Issues, Spelling, Poetry, Prose
