@@ -1,4 +1,4 @@
-# Welcome to the Reagan UIL website!
+Welcome to the Reagan UIL website!
 # Our Events: 
   ## Debate
     CX, Speaking, Congress
