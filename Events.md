@@ -1,10 +1,9 @@
 # Our Events: 
   ## Debate
-    CX, Speaking, Congress
+    CX, Extemporaneous Speaking, Congress
   ## Journalism
-    News Writing (45 minutes), Feature Writing (60 minutes), Editorial Writing (45 minutes), Headline Writing (30 minutes) and Copy Editing (15 minutes)
-    all under journalism
+    News Writing, Feature Writing, Editorial Writing, Headline Writing, and Copy Editing
   ## STEM
-    (Math, NS, Calc) all under math, Sci, Comp Sci
+    Math, Number Sense, Cal;culator Applications, Science, Computer Science
   ## Other
-    Social, Ready Write, Lit. Crit, OAP, Current Issues, Spelling, Poetry, Prose
+    Social Studies, Ready Writing, Literary Criticism, One-Act Play, Current Issues, Spelling, Poetry Interpretation, Prose Interpretation
