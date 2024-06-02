@@ -10,12 +10,13 @@
     
   </head>
   <body>
-    <div id="nav">hello world</div>
-    <script> 
-      $(function(){
-        $("#nav").load("nav.html"); 
-      }); 
-     </script>
+    <div id="nav"><p>if this shows up there is a bug</p></div>
+    <script>
+  $(document).ready(function() {
+    $("#nav").load("nav.html");
+  });
+</script>
+ 
     <header>
       <h1>Reagan High School Academic UIL</h1>
       <img src="reaganlogo.png" height="50px">
