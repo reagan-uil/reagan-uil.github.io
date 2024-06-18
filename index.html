@@ -8,43 +8,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   </head>
   <body>
-    <nav>
-      <img src="reaganlogo.png" height="20px">
-      <a href="index.html">Home</a>
-      <a href="pages/results.html">Results</a>
-      <div class="dropdown">
-        <button class="dropbtn">STEM Events</button>
-        <div class="dropdown-content">
-          <a href="pages/math.html">Math</a>
-          <a href="pages/science.html">Science</a>
-          <a href="pages/compsci.html">Computer Science</a>
-        </div>
-      </div>
-      <div class="dropdown">
-        <button class="dropbtn">Speech and Debate</button>
-        <div class="dropdown-content">
-          <a href="pages/congress.html">Congress</a>
-          <a href="pages/cx.html">CX Debate</a>
-          <a href="pages/speaking.html">Extemporaneous Speaking</a>
-          
-        </div>
-      </div>   
-      <a href="pages/events.html">Journalism</a>
-      <div class="dropdown">
-        <button class="dropbtn">Other Events</button>
-        <div class="dropdown-content">
-          <a href="pages/current.html">Current Events</a>
-          <a href="pages/lit.html">Literary Criticism</a>
-          <a href="pages/oap.html">One-Act Play</a>
-          <a href="pages/poetry.html">Poetry Interpretation</a>
-          <a href="pages/prose.html">Prose Interpretation</a>
-          <a href="pages/readywrite.html">Ready Writing</a>
-          <a href="pages/social.html">Social Studies</a>
-          <a href="pages/spelling.html">Spelling</a>
-        </div>
-      </div>   
-      <!-- <a href="pages/tutor.html">Tutoring</a> -->
-    </nav>
+    <div id="nav"><p>If this shows up there is a network error.</p></div>
+    <script>
+    $(document).ready(function() {
+      $("#nav").load("nav.html");
+    });
+    </script>
     <main>
       <header>
         <h1>Reagan High School Academic UIL</h1>
