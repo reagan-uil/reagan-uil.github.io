@@ -1,3 +1,13 @@
-Welcome to the Reagan UIL website! \
+# The offical Reagan Academic UIL team website!
+This is the website for the Reagan UIL team.\
+It contains information about every event and contact information for our sponsors.\
+District, region and state results will be posted here.\
+**Are you interested in joining? Contact a sponsor today!**
+## Team Awards:
+2022-23 District 28-6A Champions\
+2022-23 Region 4-6A 2nd Place\
+2023-24 District 28-6A 2nd Place
+## Credits:
 Created by William Liu, 2024 \
-Have a great day!
+Made with HTML and CSS (for now)\
+Contributions are welcomed!
