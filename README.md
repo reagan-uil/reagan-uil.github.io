@@ -10,4 +10,5 @@ District, region and state results will be posted here.\
 ## Credits:
 Created by William Liu, 2024 \
 Made with HTML and CSS (for now)\
+CSS fixes -David Zhao, 3 July 2024\
 Contributions are welcomed!
