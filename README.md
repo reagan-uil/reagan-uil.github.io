@@ -22,6 +22,6 @@ Created by William Liu, 2024
 
 Made with HTML and CSS (for now)
 
-CSS fixes -David Zhao, 3 July 2024
+CSS fixes by David Zhao, 3 July 2024
 
 Contributions are welcomed!
