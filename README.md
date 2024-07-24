@@ -10,11 +10,11 @@ District, region and state results will be posted here.
 
 ## Team Awards:
 
-2022-23 District 28-6A Champions. 
+2022-23 District 28-6A Champions  
 
-2022-23 Region 4-6A 2nd Place. 
+2022-23 Region 4-6A 2nd Place  
 
-2023-24 District 28-6A 2nd Place. 
+2023-24 District 28-6A 2nd Place  
 
 ## Credits:
 
