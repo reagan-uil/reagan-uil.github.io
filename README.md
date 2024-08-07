@@ -25,3 +25,7 @@ Made with HTML and CSS (for now)
 CSS fixes by David Zhao, 3 July 2024
 
 ## Contributions are welcomed!
+
+# Roadmap
+
+- use svelte
