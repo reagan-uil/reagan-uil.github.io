@@ -28,4 +28,6 @@ CSS fixes by David Zhao, 3 July 2024
 
 # Roadmap
 
-- use svelte
+- Upgrade front-end tech stack with React or Svelte (help appreciated!)
+- Make website look cooler
+- Maintain the site's status as a great place to get information about the Reagan Academic UIL team
