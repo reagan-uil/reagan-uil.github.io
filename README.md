@@ -1,10 +1,10 @@
-# The offical Reagan Academic UIL team website!
+# About
 
 This is the website for the Reagan UIL team.  
 
 It contains information about every event and contact information for our sponsors.  
 
-District, region and state results will be posted here.  
+District, Region and State results will be posted here.  
 
 **Are you interested in joining? Contact a sponsor today!**
 
