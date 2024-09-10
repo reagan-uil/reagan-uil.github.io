@@ -1,3 +1,6 @@
+You can find the website for this project at
+[reagan-uil.github.io](https://reagan-uil.github.io).
+
 # About
 
 This is the website for the Reagan UIL team.  
