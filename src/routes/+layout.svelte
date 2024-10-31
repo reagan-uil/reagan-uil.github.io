@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>William Liu</title>
+	<title>Reagan Academic UIL</title>
 </svelte:head>
 <div>
 	<Navbar {base} />
