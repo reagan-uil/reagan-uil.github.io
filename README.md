@@ -23,7 +23,7 @@ District, Region and State results will be posted here.
 
 Created by William, 2024
 
-Made with HTML and CSS (for now)
+Built with Svelte 4
 
 CSS fixes by David Zhao, 3 July 2024
 
@@ -31,6 +31,5 @@ CSS fixes by David Zhao, 3 July 2024
 
 # Roadmap
 
-- Upgrade front-end tech stack with React or Svelte (help appreciated!)
 - Make website look cooler
 - Maintain the site's status as a great place to get information about the Reagan Academic UIL team
