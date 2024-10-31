@@ -30,10 +30,17 @@
 	</h2>
 	<hr />
 	<h1>Updates</h1>
-	<p>
-		An informational meeting wss held Thursday August 22, 2024. There is still
-		time to sign up! Contact a sponsor for details.
-	</p>
+	<ul>
+		<li>
+			Our first meet of the season will be on Saturday November 2, 2024 at
+			Roosevelt High School. Events held will be Math, Number Sense, Calculator
+			Applications and Science.
+		</li>
+		<li>
+			An informational meeting wss held Thursday August 22, 2024. There is still
+			time to sign up! Contact a sponsor for details.
+		</li>
+	</ul>
 </main>
 <footer>
 	<p>
