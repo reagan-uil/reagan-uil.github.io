@@ -5,15 +5,15 @@
 </script>
 
 <main>
-	<Header name="UIL Ready Writing" />
+	<Header name="UIL Poetry and Prose Interpretation" />
 	<div class="container">
-		<Teacher name="Mrs. Newberg" email="gnewbe" room="KY128" />
+		<Teacher name="Mr. Eanes" email="beanes" room="FA100" />
 		<About>
 			<p>
-				Ready Writing builds students’ skills and helps refine writing abilities
-				through writing expository compositions, which explain, prove or explore
-				a topic in a balanced way, allowing the argument and the evidence given
-				to be the deciding factor in the paper.
+				Poetry and Prose Interpretation stimulates the student’s ability to
+				communicate ideas and information to an audience. The student is
+				challenged to ascertain and communicate the ideas of an author through a
+				literary selection, based on the student’s understanding and research.
 			</p>
 		</About>
 	</div>
