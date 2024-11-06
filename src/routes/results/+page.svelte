@@ -24,6 +24,10 @@
 				Mathematics - William Liu - 1st place, Levi Doles - 3rd place, Anish
 				Paruchuri - 7th place, Aarnav Shah - 8th place
 			</li>
+			<li>
+				Science - Angela Huang, team high score (134), William Liu - 6th place
+				9th and 10th grades
+			</li>
 		</div>
 		<h1>2024 State Meet</h1>
 		<p>

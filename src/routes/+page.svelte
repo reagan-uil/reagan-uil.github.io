@@ -34,8 +34,7 @@
 		<li>
 			Our first meet of the season was on Saturday, November 2, 2024, at
 			Roosevelt High School. Events held were Math, Number Sense, Calculator
-			Applications and Science. Results for all events except Science have been
-			posted.
+			Applications and Science. Results for all events have been posted.
 		</li>
 	</ul>
 </main>
