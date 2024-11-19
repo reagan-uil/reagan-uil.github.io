@@ -7,7 +7,6 @@
 			'Saturday 11/2/2024',
 			'Roosevelt High School (Math, Number Sense, Calculator, Science only)'
 		],
-		['AMC 10/12 A', 'Wednesday 11/6/2024', 'Hosted by Reagan'],
 		['TMSCA #6', 'Saturday 12/7/2024', 'Madison High School'],
 		['TMSCA #8', 'Saturday 1/25/2025', 'Johnson High School'],
 		['MacArthur Invitational', 'Saturday 2/8/2025', 'MacArthur High School'],
@@ -25,8 +24,10 @@
 		['F=ma', 'Wednesday 2/12/2025', 'TBD'],
 		['USACO Feburary', 'TBD', 'online'],
 		['USACO US Open', 'TBD', 'online'],
+		['USNCO Local Exam', 'TBD', 'TBD'],
 		['USAPhO', 'TBD', 'TBD'],
 		['USABO Semifinals', 'Thursday 3/27/2025', 'online']
+		['USNCO National Exam', 'TBD', 'TBD'],
 	];
 </script>
 
