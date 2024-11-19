@@ -81,7 +81,7 @@
 			<ul>
 				<li>
 					OpenStax <a
-						href="https://openstax.org/books/college-physics/pages/1-introduction-to-science-and-the-realm-of-physics-physical-quantities-and-units"
+						href="https://openstax.org/books/college-physics-2e/pages/1-introduction-to-science-and-the-realm-of-physics-physical-quantities-and-units"
 						target="_blank"><i>College Physics</i></a
 					>
 				</li>
