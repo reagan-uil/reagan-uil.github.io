@@ -10,6 +10,7 @@
 		>
 		<a href="{base}/">Home</a>
 		<a href="{base}/results">Results</a>
+		<a href="{base}/schedule">Schedule</a>
 		<div class="dropdown">
 			<button class="dropbtn">Contests</button>
 			<div class="dropdown-content">
