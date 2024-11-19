@@ -45,5 +45,5 @@
 			target="_blank">our repo.</a
 		>
 	</p>
-	<p>Built with HTML and CSS</p>
+	<p>Built with Svelte</p>
 </footer>
