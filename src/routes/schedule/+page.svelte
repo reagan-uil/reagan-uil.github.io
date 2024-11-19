@@ -26,6 +26,7 @@
 		['USACO US Open', 'TBD', 'online'],
 		['USNCO Local Exam', 'TBD', 'TBD'],
 		['USAPhO', 'TBD', 'TBD'],
+		['USAMO/USAJMO', '3/19 to 3/20, 2025', 'Hosted by Reagan'],
 		['USABO Semifinals', 'Thursday 3/27/2025', 'online']
 		['USNCO National Exam', 'TBD', 'TBD'],
 	];
