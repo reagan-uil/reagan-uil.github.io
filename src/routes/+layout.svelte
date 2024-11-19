@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+	import Navbar from '../lib/components/Navbar.svelte';
 	import { base } from '$app/paths';
 </script>
 
@@ -7,7 +8,7 @@
 	<title>Reagan Academic UIL</title>
 	<link rel="shortcut icon" type="shortcut icon" href="favicon.ico" />
 </svelte:head>
-<nav class="text-white">
+<!-- <nav class="text-white">
 	<ul class="flex flex-wrap bg-black">
 		<li><a class="p-2" href="{base}/">Home</a></li>
 		<li><a class="p-2" href="{base}/results">Results</a></li>
@@ -46,8 +47,9 @@
 		</li>
 		<li><a class="p-2" href="{base}/resources">Resources</a></li>
 	</ul>
-</nav>
+</nav> -->
 <label class="contents">
+	<Navbar {base} />
 	<slot></slot>
 	<footer class="text-center">
 		<p>
@@ -59,6 +61,6 @@
 		</p>
 		<p>Built with Svelte</p>
 	</footer>
-	<input type="radio" name="dropdown" class="hidden" />
+	<!-- <input type="radio" name="dropdown" class="hidden" /> -->
 	<!-- to hide dropdown -->
 </label>
