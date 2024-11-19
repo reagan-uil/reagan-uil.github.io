@@ -13,11 +13,11 @@
 		<li><a class="p-2" href="{base}/results">Results</a></li>
 		<li><a class="p-2" href="{base}/schedule">Schedule</a></li>
 		<li>
-			<label class="peer p-2 cursor-pointer">
+			<label class="peer cursor-pointer p-2">
 				<input type="radio" name="dropdown" class="hidden" />
 				Contests...
 			</label>
-			<ul class="hidden peer-has-[:checked]:block absolute bg-black">
+			<ul class="absolute hidden bg-black peer-has-[:checked]:block">
 				<li><a class="p-2" href="{base}/accounting">Accounting</a></li>
 				<li><a class="p-2" href="{base}/currentevents">Current Events</a></li>
 				<li><a class="p-2" href="{base}/journalism">Journalism Events</a></li>
@@ -32,11 +32,11 @@
 			</ul>
 		</li>
 		<li>
-			<label class="peer p-2 cursor-pointer">
+			<label class="peer cursor-pointer p-2">
 				<input type="radio" name="dropdown" class="hidden" />
 				STEM Contests...
 			</label>
-			<ul class="hidden peer-has-[:checked]:block absolute bg-black">
+			<ul class="absolute hidden bg-black peer-has-[:checked]:block">
 				<li><a class="p-2" href="{base}/math">Mathematics</a></li>
 				<li><a class="p-2" href="{base}/calculator">Calculator Apps</a></li>
 				<li><a class="p-2" href="{base}/numbersense">Number Sense</a></li>
@@ -49,14 +49,16 @@
 </nav>
 <label class="contents">
 	<slot></slot>
-	<footer>
+	<footer class="text-center">
 		<p>
 			Contribute to this website at <a
+				class="underline"
 				href="https://github.com/reagan-uil/reagan-uil.github.io"
-				target="_blank">our repo.</a
+				target="_blank">our repo!</a
 			>
 		</p>
-		<p>Built with Svelte.</p>
+		<p>Built with Svelte</p>
 	</footer>
 	<input type="radio" name="dropdown" class="hidden" />
+	<!-- to hide dropdown -->
 </label>

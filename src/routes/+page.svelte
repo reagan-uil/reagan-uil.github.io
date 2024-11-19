@@ -23,7 +23,9 @@
 		<li>Look good on college applications</li>
 		<li>Have fun!</li>
 	</ul>
-	<a href="why.pdf" target="_blank">Students tell us what they gained from UIL.</a>
+	<a href="why.pdf" target="_blank"
+		>Students tell us what they gained from UIL.</a
+	>
 	<h2>
 		<b>Join today!</b> Ask Ms. McCormick in MT405 for details or email her at emccor@neisd.net.
 	</h2>
