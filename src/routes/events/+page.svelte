@@ -2,8 +2,7 @@
 	import Header from '../../lib/components/Header.svelte';
 </script>
 
-<main>
-	<main>
+	<main class="prose m-auto">
 		<Header name="Our Events" />
 		<h2>Events</h2>
 		<ul>
@@ -35,4 +34,3 @@
 			<li>Computer Science</li>
 		</ul>
 	</main>
-</main>

@@ -16,7 +16,7 @@
 	];
 </script>
 
-<main>
+<main class="prose m-auto">
 	<Header name="Team Schedule" />
 	<div class="container">
 		<table>
