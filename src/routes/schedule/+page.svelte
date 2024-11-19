@@ -26,47 +26,47 @@
 		['USACO Feburary', 'TBD', 'online'],
 		['USACO US Open', 'TBD', 'online'],
 		['USAPhO', 'TBD', 'TBD'],
-		['USABO Semifinals', 'Thursday 3/27/2025', 'online'],
+		['USABO Semifinals', 'Thursday 3/27/2025', 'online']
 	];
 </script>
 
 <main>
 	<Header name="Team Schedule" />
-		<table>
-			<thead>
+	<table>
+		<thead>
+			<tr>
+				{#each headers as header}
+					<th>{header}</th>
+				{/each}
+			</tr>
+		</thead>
+		<tbody>
+			{#each rows as row}
 				<tr>
-					{#each headers as header}
-						<th>{header}</th>
+					{#each row as cell}
+						<td class="tablecell">{cell}</td>
 					{/each}
 				</tr>
-			</thead>
-			<tbody>
-				{#each rows as row}
-					<tr>
-						{#each row as cell}
-							<td class="tablecell">{cell}</td>
-						{/each}
-					</tr>
+			{/each}
+		</tbody>
+	</table>
+	<h2>Events not affiliated with UIL/TMSCA</h2>
+	<table>
+		<thead>
+			<tr>
+				{#each headers as header}
+					<th>{header}</th>
 				{/each}
-			</tbody>
-		</table>
-		<h2>Events not affiliated with UIL/TMSCA</h2>
-		<table>
-			<thead>
+			</tr>
+		</thead>
+		<tbody>
+			{#each other as row}
 				<tr>
-					{#each headers as header}
-						<th>{header}</th>
+					{#each row as cell}
+						<td class="tablecell">{cell}</td>
 					{/each}
 				</tr>
-			</thead>
-			<tbody>
-				{#each other as row}
-					<tr>
-						{#each row as cell}
-							<td class="tablecell">{cell}</td>
-						{/each}
-					</tr>
-				{/each}
-			</tbody>
-		</table>
+			{/each}
+		</tbody>
+	</table>
 </main>
