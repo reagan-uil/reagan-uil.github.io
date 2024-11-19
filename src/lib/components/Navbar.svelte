@@ -4,7 +4,6 @@
 
 <div id="nav">
 	<nav class="navbar">
-		<link rel="shortcut icon" type="shortcut icon" href="favicon.ico" />
 		<a href="{base}/"
 			><img src="reaganlogo.png" alt="Reagan HS Logo" height="20px" /></a
 		>

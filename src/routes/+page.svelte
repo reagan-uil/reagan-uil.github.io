@@ -2,8 +2,7 @@
 	import { base } from '$app/paths';
 </script>
 
-<title>Reagan UIL Academic Team</title>
-<main>
+<main class="prose m-auto">
 	<header>
 		<h1>Reagan High School Academic UIL</h1>
 		<img src="reaganlogo.png" alt="Reagan HS Logo" height="50px" />
@@ -24,7 +23,7 @@
 		<li>Look good on college applications</li>
 		<li>Have fun!</li>
 	</ul>
-	<a href="why.pdf">Students tell us what they gained from UIL.</a>
+	<a href="why.pdf" target="_blank">Students tell us what they gained from UIL.</a>
 	<h2>
 		<b>Join today!</b> Ask Ms. McCormick in MT405 for details or email her at emccor@neisd.net.
 	</h2>
@@ -38,12 +37,3 @@
 		</li>
 	</ul>
 </main>
-<footer>
-	<p>
-		Contribute to this website at <a
-			href="https://github.com/reagan-uil/reagan-uil.github.io"
-			target="_blank">our repo.</a
-		>
-	</p>
-	<p>Built with Svelte</p>
-</footer>

@@ -1,4 +1,4 @@
-<main>
+<main class="prose m-auto">
 	<header>
 		<h1>Resources</h1>
 		<p>Some helpful links.</p>

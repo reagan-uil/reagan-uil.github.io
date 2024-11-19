@@ -4,7 +4,7 @@
 	import Header from '../../lib/components/Header.svelte';
 </script>
 
-<main>
+<main class="prose m-auto">
 	<Header name="UIL Number Sense" />
 	<div class="container">
 		<Teacher
