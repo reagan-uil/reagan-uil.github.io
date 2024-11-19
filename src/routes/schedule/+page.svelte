@@ -16,7 +16,7 @@
 	];
 	let other = [
 		['AMC 10/12 A', 'Wednesday 11/6/2024', 'Hosted by Reagan'],
-		['AMC 10/12 B', 'Tuesday 11/6/2024', 'Hosted by Reagan'],
+		['AMC 10/12 B', 'Tuesday 11/12/2024', 'Hosted by Reagan'],
 		['USACO December', 'TBD', 'online'],
 		['USACO January', 'TBD', 'online'],
 		['USABO Open Round', 'Thursday 2/6/2025', 'online on AoPS'],
