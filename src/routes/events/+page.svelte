@@ -7,6 +7,7 @@
 		<Header name="Our Events" />
 		<h2>Events</h2>
 		<ul>
+			<li>Accounting</li>
 			<li>Current Issues</li>
 			<li>
 				Journalism

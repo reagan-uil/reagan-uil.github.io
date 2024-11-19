@@ -10,41 +10,104 @@
 		<Teacher name="Mrs. Perez" email="eperez7" room="HI126" />
 		<About>
 			<p>
-				The Journalism program is not so much to train students to become
-				professional journalists but rather to stress writing and higher order
-				thinking skills.
+				This page actually has a couple of contests together, but they're pretty
+				similar in competition style and idea. Many of these include being given
+				a series of resources and having to write a paper about them, whether
+				that might be an editorial or a news flash. There's also a few other
+				competitions. Ready Writing is a 2-hour long contest where one is given
+				two quotes and has to write an essay based on one. Copy Editing is
+				another, which is about properly editing a document for any grammatical
+				errors and related things.
 			</p>
-			<p>
-				Feature Writing teaches students to read critically, to digest and
-				prioritize information quickly, and to write clearly, accurately, and
-				succinctly. Emphasis is placed on the same writing skills as other UIL
-				Journalism Contests, as well as the ability to write descriptively.
-			</p>
-			<p>
-				News Writing teaches students to read critically, to digest and
-				prioritize information quickly and to write clearly, accurately and
-				succinctly. Emphasis is placed on mechanical and stylistic precision,
-				lead writing, use of direct and indirect quotes and news judgment.
-			</p>
-			<p>
-				Editorial Writing teaches students to read critically, to digest and
-				prioritize information quickly and to write clearly, accurately, and
-				succinctly. Emphasis is placed on mechanical and stylistic precision,
-				news judgment, and the ability to think deeply, to compare and contrast
-				and to argue or defend a point of view persuasively.
-			</p>
-			<p>
-				Headline Writing teaches students to read critically, to digest and
-				prioritize information quickly and to write clearly, accurately and
-				succinctly. Emphasis is placed on the ability to discern key facts and
-				to write with flair and style in order to tell and sell a story.
-			</p>
-			<p>
-				Copy Editing teaches students the vital skills of proofreading and
-				editing to create accurate, clear and succinct writing. Emphasis is
-				placed on the ability to find and correct grammatical, spelling,
-				punctuation, AP style and factual errors.
-			</p>
+			<ul>
+				<li>Ready Writing:</li>
+				<ul>
+					<li>2 hours</li>
+					<li>Write a detailed essay regarding one of two quotes</li>
+				</ul>
+
+				<li>Copy Editing:</li>
+				<ul>
+					<li>15 minutes</li>
+					<li>
+						Carefully proofread and edit writing to make a piece crystal clear
+					</li>
+				</ul>
+
+				<li>Editorial Writing:</li>
+				<ul>
+					<li>45 minutes</li>
+					<li>Write a stylistic piece to defend a side in an argument</li>
+				</ul>
+
+				<li>Feature Writing:</li>
+				<ul>
+					<li>60 minutes</li>
+					<li>Write a piece that descriptively portrays an event</li>
+				</ul>
+
+				<li>News Writing:</li>
+				<ul>
+					<li>45 minutes</li>
+					<li>
+						Write a piece that captures an event from a news flash, using a
+						combination of quotes and higher-level lead writing
+					</li>
+				</ul>
+
+				<li>Headline Writing:</li>
+				<ul>
+					<li>30 minutes</li>
+					<li>
+						Write a bold headline to accurately describe a series of different
+						reports
+					</li>
+				</ul>
+
+				<li>
+					All contests are graded by a panel of judges, with no relative point
+					scoring system
+				</li>
+			</ul>
+			<h4>Resources</h4>
+			<ul>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/journalism/Copy_editing_21-22b.pdf"
+						target="_blank">Copy Editing PPT</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/journalism/Editorial2021.pdf"
+						target="_blank">Editorial Writing PPT</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/journalism/feature_2021.pdf"
+						target="_blank">Feature Writing PPT</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/journalism/2021head.ppt"
+						target="_blank">Headling Writing PPT</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/journalism/2021_Newswritingedit.pdf"
+						target="_blank">News Writing PPT</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.uiltexas.org/files/academics/4A-ready_writing_state_champ_06.pdf"
+						target="_blank">2016 4A State Champion Ready Writing Essay</a
+					>
+				</li>
+			</ul>
 		</About>
 	</div>
 </main>

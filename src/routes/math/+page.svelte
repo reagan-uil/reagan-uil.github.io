@@ -5,7 +5,7 @@
 </script>
 
 <main>
-	<Header name="UIL Mathematics, Number Sense, and Calculator Applications" />
+	<Header name="UIL Mathematics" />
 	<div class="container">
 		<Teacher
 			name="Mrs. Eastwood"
@@ -15,41 +15,33 @@
 		/>
 		<About>
 			<p>
-				Mathematics is intended to encourage interest in math, to develop talent
-				in problem solving skills and to inspire students to excel in all areas
-				of mathematics. It is based on a 60-question multiple choice test.
+				Math in general! If you've seen TMSCA middle school tests, think about
+				it as those with like 20 times as many topics. The first few questions
+				can be solved easily by anyone who has an understanding of basic Algebra
+				I/II, but these questions can quickly advance to AP Calculus BC or AP
+				Statistics information. The trick to these is to answer to the best of
+				your knowledge, and play to your fore. Freshmen without precalculus have
+				beaten seniors to UIL team spots, and sophomores without calculus or
+				stats have topped regional rankings. This test has a wide variety of
+				problems, and it's up to the competitors to strategize skillfully.
 			</p>
-			<p>
-				Number Sense emphasizes the mental processes used to achieve
-				mathematical calculations with no help from calculators, computers, or
-				pen and paper and to develop the use of specific techniques and
-				strategies to make mathematical judgments and develop useful strategies
-				for handling numbers and operations.
-			</p>
-			<p>
-				Calculator Applications trains students in efficient problem solving
-				strategies involving calculations in the areas of engineering, science
-				and mathematics.
-			</p>
-			<p>For more, see:</p>
 			<ul>
-				<li>
-					<a href="https://www.uiltexas.org/academics/stem/mathematics"
-						>Mathematics</a
-					>
-				</li>
-				<li>
-					<a href="https://www.uiltexas.org/academics/stem/number-sense"
-						>Number Sense</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://www.uiltexas.org/academics/stem/calculator-applications"
-						>Calculator Applications</a
-					>
-				</li>
+				<li>60 questions</li>
+				<li>40 minutes</li>
+				<li>Scoring:</li>
+				<ul>
+					<li>+6 for a right answer</li>
+					<li>-2 for a wrong answer</li>
+					<li><b>No</b> deductions for not answering a question</li>
+				</ul>
+				<li>Ranging from Algebra I/II to BC Calculus and AP Statistics</li>
 			</ul>
+			<p>
+				For more, see <a
+					href="https://www.uiltexas.org/academics/stem/mathematics"
+					>Mathematics</a
+				>
+			</p>
 		</About>
 	</div>
 </main>

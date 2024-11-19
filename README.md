@@ -23,9 +23,11 @@ District, Region and State results will be posted here.
 
 Created by William, 2024
 
-Built with Svelte 4
+Built with Svelte 5
 
 CSS fixes by David Zhao, 3 July 2024
+
+Resources and some descriptions from the Allen HS UIL team website
 
 **Contributions are welcomed!**
 
