@@ -12,7 +12,7 @@ export default {
 			strict: true
 		}),
 		paths: {
-			base: '/ghpages'
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		}
 	}
 };
