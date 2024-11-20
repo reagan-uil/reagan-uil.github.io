@@ -29,8 +29,6 @@ CSS fixes by David Zhao, 3 July 2024
 
 Resources and some descriptions from the Allen HS UIL team website
 
-**Contributions are welcomed!**
-
 # Roadmap
 
 - Make website look cooler

@@ -1,10 +1,9 @@
 /* @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities'; */
-:root {
-	background-color: black;
-}
-body {
+html {
+	color: silver;
+	background-color: #002c00;
 	font-family:
 		system-ui,
 		-apple-system,
@@ -17,10 +16,10 @@ body {
 		'Open Sans',
 		'Helvetica Neue',
 		sans-serif;
+}
+body {
 	margin: 0;
 	padding-bottom: 20px;
-	background-color: rgba(0, 100, 0, 0.447);
-	color: silver;
 }
 header {
 	padding: 20px;
@@ -30,7 +29,6 @@ header {
 	padding: 0 20px 0 20px;
 	display: flex;
 	flex-direction: row;
-	/* flex-wrap: wrap; */
 	justify-content: center;
 }
 .teacher {
