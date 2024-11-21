@@ -2,7 +2,7 @@
   import Header from '../../lib/components/Header.svelte';
 </script>
 
-<main class="prose m-auto">
+<main>
   <Header name="Our Events" />
   <h2>Events</h2>
   <ul>

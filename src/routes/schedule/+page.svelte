@@ -32,7 +32,7 @@
   ];
 </script>
 
-<main class="prose m-auto">
+<main>
   <Header name="Team Schedule" />
   <table>
     <thead>

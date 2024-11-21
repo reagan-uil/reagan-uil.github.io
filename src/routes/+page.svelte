@@ -2,7 +2,7 @@
   import { base } from '$app/paths';
 </script>
 
-<main class="prose m-auto">
+<main>
   <header>
     <h1>Reagan High School Academic UIL</h1>
     <img src="reaganlogo.png" alt="Reagan HS Logo" height="50px" />

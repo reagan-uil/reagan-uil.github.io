@@ -4,7 +4,7 @@
   import Header from '../../lib/components/Header.svelte';
 </script>
 
-<main class="prose m-auto">
+<main>
   <Header name="UIL Computer Science" />
   <div class="container">
     <Teacher name="Mr. Hall" email="dhall2" room="IND321" />

@@ -8,10 +8,10 @@
   <title>Reagan Academic UIL</title>
   <link rel="shortcut icon" type="shortcut icon" href="favicon.ico" />
 </svelte:head>
-<div class="m-auto">
+<div>
   <Navbar {base} />
   <slot></slot>
-  <footer class="text-center">
+  <footer>
     <p>
       Contribute to this website at <a
         class="underline"

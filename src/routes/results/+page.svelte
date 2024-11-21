@@ -2,7 +2,7 @@
   import Header from '../../lib/components/Header.svelte';
 </script>
 
-<main class="prose m-auto">
+<main>
   <Header name="Team Results" />
   <div>
     <div>
