@@ -1,7 +1,7 @@
 <script>
-	export let name;
+  export let name;
 </script>
 
 <header>
-	<h1>{name}</h1>
+  <h1>{name}</h1>
 </header>

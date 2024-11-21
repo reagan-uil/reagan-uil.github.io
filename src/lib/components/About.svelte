@@ -1,3 +1,3 @@
 <div class="aboutevent">
-	<slot></slot>
+  <slot></slot>
 </div>
