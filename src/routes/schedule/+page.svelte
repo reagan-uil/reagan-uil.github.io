@@ -5,14 +5,14 @@
     [
       'TMSCA #3',
       'Saturday 11/2/2024',
-      'Roosevelt High School (Math, Number Sense, Calculator, Science only)'
+      'Roosevelt High School (Math, Number Sense, Calculator, Science only)',
     ],
     ['TMSCA #6', 'Saturday 12/7/2024', 'Madison High School'],
     ['TMSCA #8', 'Saturday 1/25/2025', 'Johnson High School'],
     ['MacArthur Invitational', 'Saturday 2/8/2025', 'MacArthur High School'],
     ['UIL Districts', '3/28 to 3/29, 2025', 'Reagan High School'],
     ['UIL Regionals', '4/25 to 4/26, 2025', 'UTSA'],
-    ['UIL State', '5/19 to 5/21, 2025', 'UT Austin']
+    ['UIL State', '5/19 to 5/21, 2025', 'UT Austin'],
   ];
   let other = [
     ['AMC 10/12 A', 'Wednesday 11/6/2024', 'Hosted by Reagan'],
@@ -28,7 +28,7 @@
     ['USAPhO', 'TBD', 'TBD'],
     ['USAMO/USAJMO', '3/19 to 3/20, 2025', 'Hosted by Reagan'],
     ['USABO Semifinals', 'Thursday 3/27/2025', 'online'],
-    ['USNCO National Exam', 'TBD', 'TBD']
+    ['USNCO National Exam', 'TBD', 'TBD'],
   ];
 </script>
 
