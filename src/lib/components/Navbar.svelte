@@ -9,7 +9,7 @@
       ><img src="reaganlogo.png" alt="Reagan HS Logo" height="20px" /></a
     >
     <a href="{base}/">Home</a>
-    <a href="{base}/results">Results</a>
+    <a href="https://reagan-uil.github.io/team-results">Results</a>
     <a href="{base}/schedule">Schedule</a>
     <div class="dropdown">
       <button class="dropbtn">Contests</button>
