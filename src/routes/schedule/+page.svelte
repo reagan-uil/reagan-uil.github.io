@@ -23,12 +23,12 @@
     ['AIME I/II', '2/6 and 2/12, 2025', 'hosted by Reagan'],
     ['F=ma', 'Wednesday 2/12/2025', 'TBD'],
     ['USACO Feburary', '2/21 to 2/24, 2025', 'online'],
-    ['USNCO Local Exam', 'TBD', 'TBD'],
-    ['USAPhO', 'TBD', 'TBD'],
+    ['USNCO Local Exam', '3/1 to 3/23, 2025', 'TBD'],
     ['USAMO/USAJMO', '3/19 to 3/20, 2025', 'Hosted by Reagan'],
     ['USACO US Open', '3/21 to 3/24, 2025', 'online'],
     ['USABO Semifinals', 'Thursday 3/27/2025', 'online'],
-    ['USNCO National Exam', 'TBD', 'TBD'],
+    ['USAPhO', 'TBD', 'TBD'],
+    ['USNCO National Exam', '4/5 to 4/13, 2025', 'TBD']
   ];
 </script>
 
