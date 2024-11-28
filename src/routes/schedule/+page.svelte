@@ -28,7 +28,7 @@
     ['USACO US Open', '3/21 to 3/24, 2025', 'online'],
     ['USABO Semifinals', 'Thursday 3/27/2025', 'online'],
     ['USAPhO', 'TBD', 'TBD'],
-    ['USNCO National Exam', '4/5 to 4/13, 2025', 'TBD']
+    ['USNCO National Exam', '4/5 to 4/13, 2025', 'TBD'],
   ];
 </script>
 
