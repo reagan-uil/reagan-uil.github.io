@@ -84,16 +84,15 @@
         <ul>
           <li>
             <a
-              href="https://www.uiltexas.org/files/academics/UILCS-JavaTopicList2223.pdf"
+              href="https://www.uiltexas.org/files/academics/UILCS-JavaTopicList2425.pdf"
               target="_blank">UIL's Topic List</a
             >
           </li>
           <li>
             <a
-              href="https://docs.google.com/document/d/1U0GO6L9AxU2b2lgWdYw47nzienkIDuL-GcJ6KL5jc88/edit?usp=sharing"
+              href="https://docs.google.com/document/d/16dFkdxcPZzVAwEaLS_4V10duEsx7VEVwQBfrSzF0saE/edit?usp=sharing"
               target="_blank">Google Docs Review Sheet</a
             >
-            (comment permissions are enabled)
           </li>
         </ul>
         <li>Programming:</li>

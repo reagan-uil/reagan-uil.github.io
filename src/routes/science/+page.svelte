@@ -59,7 +59,7 @@
       <ul>
         <li>
           <a
-            href="https://docs.google.com/document/d/1IGtNLeaih5Dkkjaq_052apVOUmgKNyYujydRHWnM_uw/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1ENO7_rRqqNzExXyGCaOo6ywLHQuBNMViB8sbvwolSlE/edit?usp=sharing"
             target="_blank">AP Bio Notes</a
           >
         </li>
@@ -69,7 +69,7 @@
       <ul>
         <li>
           <a
-            href="https://drive.google.com/drive/folders/1ZzIzEef6SGjYGkuH6fIBae7dNbiG2R7n?usp=sharing"
+            href="https://drive.google.com/drive/folders/1dvqE1xfcRV1PhXg8k5a9BN6T7p7wb-xQ?usp=sharing"
             target="_blank">AP Chem Notes</a
           >
         </li>
@@ -89,7 +89,7 @@
         </li>
         <li>
           <a
-            href="https://docs.google.com/document/d/1MEwJeOkqCpbIS94lG1Nobapq43j62eHWrkVVespq-PU/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1IsvYwB02x4EAjMSTmVyu3dnjqUAs__-DNp-dBKAFiGw/edit?usp=sharing"
             target="_blank">UIL Physics Notes by Warith Rahman</a
           >
           (created based on the OpenStax books above)
