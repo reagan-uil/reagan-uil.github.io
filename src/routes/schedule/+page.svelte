@@ -1,5 +1,5 @@
-<script>
-  import Header from '../../lib/components/Header.svelte';
+<script lang="ts">
+  import Header from '$lib/components/Header.svelte';
   let headers = ['Competition', 'Date', 'Location'];
   let rows = [
     [
@@ -13,7 +13,7 @@
     ['UIL Districts', '3/28 to 3/29, 2025', 'Reagan High School'],
     ['UIL Regionals', '4/25 to 4/26, 2025', 'UTSA'],
     ['UIL State', '5/19 to 5/21, 2025', 'UT Austin'],
-  ];
+  ] satisfies [string, string, string][];
   let other = [
     ['AMC 10/12 A', 'Wednesday 11/6/2024', 'Hosted by Reagan'],
     ['AMC 10/12 B', 'Tuesday 11/12/2024', 'Hosted by Reagan'],
@@ -29,46 +29,44 @@
     ['USABO Semifinals', 'Thursday 3/27/2025', 'online'],
     ['USAPhO', 'TBD', 'TBD'],
     ['USNCO National Exam', '4/5 to 4/13, 2025', 'TBD'],
-  ];
+  ] satisfies [string, string, string][];
 </script>
 
-<main>
-  <Header name="Team Schedule" />
-  <table>
-    <thead>
+<Header name="Team Schedule" />
+<table>
+  <thead>
+    <tr>
+      {#each headers as header}
+        <th>{header}</th>
+      {/each}
+    </tr>
+  </thead>
+  <tbody>
+    {#each rows as row}
       <tr>
-        {#each headers as header}
-          <th>{header}</th>
+        {#each row as cell}
+          <td class="tablecell">{cell}</td>
         {/each}
       </tr>
-    </thead>
-    <tbody>
-      {#each rows as row}
-        <tr>
-          {#each row as cell}
-            <td class="tablecell">{cell}</td>
-          {/each}
-        </tr>
+    {/each}
+  </tbody>
+</table>
+<h2>Events not affiliated with UIL/TMSCA</h2>
+<table>
+  <thead>
+    <tr>
+      {#each headers as header}
+        <th>{header}</th>
       {/each}
-    </tbody>
-  </table>
-  <h2>Events not affiliated with UIL/TMSCA</h2>
-  <table>
-    <thead>
+    </tr>
+  </thead>
+  <tbody>
+    {#each other as row}
       <tr>
-        {#each headers as header}
-          <th>{header}</th>
+        {#each row as cell}
+          <td class="tablecell">{cell}</td>
         {/each}
       </tr>
-    </thead>
-    <tbody>
-      {#each other as row}
-        <tr>
-          {#each row as cell}
-            <td class="tablecell">{cell}</td>
-          {/each}
-        </tr>
-      {/each}
-    </tbody>
-  </table>
-</main>
+    {/each}
+  </tbody>
+</table>
