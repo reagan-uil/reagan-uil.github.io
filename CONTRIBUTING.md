@@ -14,7 +14,7 @@ We use Github to host code, to track issues and feature requests, as well as acc
 
 ## To start:
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo and create your branch from `main`.
 2. Do your magic!
 3. Build your code and make sure everything works.
 4. Lint and format your code.
@@ -30,8 +30,3 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 - Steps to reproduce - be specific!
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
-## Use a Consistent Coding Style
-
-- Use 2 spaces for indentation rather than tabs
-- run `pnpm run format` to format your code

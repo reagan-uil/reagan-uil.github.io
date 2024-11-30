@@ -10,7 +10,7 @@
   <link rel="shortcut icon" type="shortcut icon" href="/favicon.ico" />
 </svelte:head>
 <div id="__next">
-  <Navbar/>
+  <Navbar />
   <main>
     {@render children()}
   </main>
