@@ -1,5 +1,5 @@
 <script>
-  export let base;
+  let { base } = $props();
 </script>
 
 <div id="nav">

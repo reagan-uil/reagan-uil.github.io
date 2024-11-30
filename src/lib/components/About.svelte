@@ -1,3 +1,7 @@
+<script>
+  let { children } = $props();
+</script>
+
 <div class="aboutevent">
-  <slot></slot>
+  {@render children()}
 </div>

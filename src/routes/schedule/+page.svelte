@@ -1,5 +1,5 @@
 <script>
-  import Header from '../../lib/components/Header.svelte';
+  import Header from '$lib/components/Header.svelte';
   let headers = ['Competition', 'Date', 'Location'];
   let rows = [
     [
@@ -32,43 +32,41 @@
   ];
 </script>
 
-<main>
-  <Header name="Team Schedule" />
-  <table>
-    <thead>
+<Header name="Team Schedule" />
+<table>
+  <thead>
+    <tr>
+      {#each headers as header}
+        <th>{header}</th>
+      {/each}
+    </tr>
+  </thead>
+  <tbody>
+    {#each rows as row}
       <tr>
-        {#each headers as header}
-          <th>{header}</th>
+        {#each row as cell}
+          <td class="tablecell">{cell}</td>
         {/each}
       </tr>
-    </thead>
-    <tbody>
-      {#each rows as row}
-        <tr>
-          {#each row as cell}
-            <td class="tablecell">{cell}</td>
-          {/each}
-        </tr>
+    {/each}
+  </tbody>
+</table>
+<h2>Events not affiliated with UIL/TMSCA</h2>
+<table>
+  <thead>
+    <tr>
+      {#each headers as header}
+        <th>{header}</th>
       {/each}
-    </tbody>
-  </table>
-  <h2>Events not affiliated with UIL/TMSCA</h2>
-  <table>
-    <thead>
+    </tr>
+  </thead>
+  <tbody>
+    {#each other as row}
       <tr>
-        {#each headers as header}
-          <th>{header}</th>
+        {#each row as cell}
+          <td class="tablecell">{cell}</td>
         {/each}
       </tr>
-    </thead>
-    <tbody>
-      {#each other as row}
-        <tr>
-          {#each row as cell}
-            <td class="tablecell">{cell}</td>
-          {/each}
-        </tr>
-      {/each}
-    </tbody>
-  </table>
-</main>
+    {/each}
+  </tbody>
+</table>
