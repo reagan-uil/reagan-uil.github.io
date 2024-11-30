@@ -1,6 +1,7 @@
 node_modules
 .svelte-kit
 build
+package-lock.json
 # Swap
 [._]*.s[a-v][a-z]
 !*.svg  # comment out if you don't need vector files
