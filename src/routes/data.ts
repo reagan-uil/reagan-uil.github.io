@@ -1,9 +1,3 @@
-const Eastwood = {
-  name: 'Mrs. Eastwood',
-  email: 'keastw',
-  room: 'TN317',
-  time: 'Tuesdays 4:30 to 5:30',
-};
 export const posts = [
   {
     path: 'spelling',
@@ -68,7 +62,12 @@ export const posts = [
   {
     path: 'calculator',
     name: 'UIL Calculator Applications',
-    teacher: Eastwood,
+    teacher: {
+      name: 'Mrs. Eastwood',
+      email: 'keastw',
+      room: 'TN317',
+      time: 'Tuesdays 4:30 to 5:30',
+    },
     content: `<p>
         As the name might suggest, this competition revolves a lot around
         calculators. Calculator's a competition that basically tests both your
@@ -339,94 +338,92 @@ export const posts = [
         another, which is about properly editing a document for any grammatical
         errors and related things.
       </p>
-      <ul>
-        <li>Ready Writing:</li>
-        <ul>
-          <li>2 hours</li>
-          <li>Write a detailed essay regarding one of two quotes</li>
-        </ul>
+    <li>Ready Writing:</li>
+<ul>
+<li>2 hours</li>
+<li>Write a detailed essay regarding one of two quotes</li>
+</ul>
 
-        <li>Copy Editing:</li>
-        <ul>
-          <li>15 minutes</li>
-          <li>
-            Carefully proofread and edit writing to make a piece crystal clear
-          </li>
-        </ul>
+<li>Copy Editing:</li>
+<ul>
+<li>15 minutes</li>
+<li>
+Carefully proofread and edit writing to make a piece crystal clear
+</li>
+</ul>
 
-        <li>Editorial Writing:</li>
-        <ul>
-          <li>45 minutes</li>
-          <li>Write a stylistic piece to defend a side in an argument</li>
-        </ul>
+<li>Editorial Writing:</li>
+<ul>
+<li>45 minutes</li>
+<li>Write a stylistic piece to defend a side in an argument</li>
+</ul>
 
-        <li>Feature Writing:</li>
-        <ul>
-          <li>60 minutes</li>
-          <li>Write a piece that descriptively portrays an event</li>
-        </ul>
+<li>Feature Writing:</li>
+<ul>
+<li>60 minutes</li>
+<li>Write a piece that descriptively portrays an event</li>
+</ul>
 
-        <li>News Writing:</li>
-        <ul>
-          <li>45 minutes</li>
-          <li>
-            Write a piece that captures an event from a news flash, using a
-            combination of quotes and higher-level lead writing
-          </li>
-        </ul>
+<li>News Writing:</li>
+<ul>
+<li>45 minutes</li>
+<li>
+Write a piece that captures an event from a news flash, using a
+combination of quotes and higher-level lead writing
+</li>
+</ul>
 
-        <li>Headline Writing:</li>
-        <ul>
-          <li>30 minutes</li>
-          <li>
-            Write a bold headline to accurately describe a series of different
-            reports
-          </li>
-        </ul>
+<li>Headline Writing:</li>
+<ul>
+<li>30 minutes</li>
+<li>
+Write a bold headline to accurately describe a series of different
+reports
+</li>
+</ul>
 
-        <li>
-          All contests are graded by a panel of judges, with no relative point
-          scoring system
-        </li>
-      </ul>
-      <h4>Resources</h4>
-      <ul>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/journalism/Copy_editing_21-22b.pdf"
-            target="_blank">Copy Editing PPT</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/journalism/Editorial2021.pdf"
-            target="_blank">Editorial Writing PPT</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/journalism/feature_2021.pdf"
-            target="_blank">Feature Writing PPT</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/journalism/2021head.ppt"
-            target="_blank">Headling Writing PPT</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/journalism/2021_Newswritingedit.pdf"
-            target="_blank">News Writing PPT</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://www.uiltexas.org/files/academics/4A-ready_writing_state_champ_06.pdf"
-            target="_blank">2016 4A State Champion Ready Writing Essay</a
-          >
-        </li>
+<li>
+All contests are graded by a panel of judges, with no relative point
+scoring system
+</li>
+<h4>Resources</h4>
+<ul>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/journalism/Copy_editing_21-22b.pdf"
+target="_blank">Copy Editing PPT</a
+>
+</li>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/journalism/Editorial2021.pdf"
+target="_blank">Editorial Writing PPT</a
+>
+</li>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/journalism/feature_2021.pdf"
+target="_blank">Feature Writing PPT</a
+>
+</li>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/journalism/2021head.ppt"
+target="_blank">Headling Writing PPT</a
+>
+</li>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/journalism/2021_Newswritingedit.pdf"
+target="_blank">News Writing PPT</a
+>
+</li>
+<li>
+<a
+href="https://www.uiltexas.org/files/academics/4A-ready_writing_state_champ_06.pdf"
+target="_blank">2016 4A State Champion Ready Writing Essay</a
+>
+</li>
       </ul>`,
   },
   {
@@ -460,7 +457,12 @@ export const posts = [
   {
     path: 'math',
     name: 'UIL Mathematics',
-    teacher: Eastwood,
+    teacher: {
+      name: 'Mrs. Eastwood',
+      email: 'keastw',
+      room: 'TN317',
+      time: 'Tuesdays 4:30 to 5:30',
+    },
     content: `<p>
         Math in general! If you've seen TMSCA middle school tests, think about
         it as those with like 20 times as many topics. The first few questions
@@ -495,7 +497,12 @@ export const posts = [
   {
     path: 'numbersense',
     name: 'UIL Number Sense',
-    teacher: Eastwood,
+    teacher: {
+      name: 'Mrs. Eastwood',
+      email: 'keastw',
+      room: 'TN317',
+      time: 'Tuesdays 4:30 to 5:30',
+    },
     content: `<p>
         This competition is quite literally the definition of speed. Number
         Sense is a test of quickly solving math problems, and even better you
