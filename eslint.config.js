@@ -16,6 +16,9 @@ export default [
         ...globals.node,
       },
     },
+    rules: {
+      'svelte/no-at-html-tags': 'warn',
+    },
   },
   {
     ignores: ['build/', '.svelte-kit/', 'dist/'],
