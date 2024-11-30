@@ -1,13 +1,15 @@
 <script>
-  export let name,
-    room,
-    email,
-    time = null;
+  let {
+    name = undefined,
+    room = undefined,
+    email = undefined,
+    time = undefined,
+  } = $props();
 </script>
 
 <div class="teacher">
-  <p>{name ? name : 'Sponsor TBD'}</p>
-  <p>{email ? email + '@neisd.net' : ''}</p>
-  <p>{room ? room : ''}</p>
-  <p>{time ? time : ''}</p>
+  {#if name}<p>{name}</p>{:else}<p>Sponsor TBD</p>{/if}
+  {#if email}<p>{email}@neisd.net</p>{/if}
+  {#if room}<p>{room}</p>{/if}
+  {#if time}<p>{time}</p>{/if}
 </div>
