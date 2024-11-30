@@ -9,10 +9,7 @@ export default {
       pages: 'build',
       assets: 'build',
       precompress: false,
-      strict: false,
+      strict: true,
     }),
-    paths: {
-      base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
-    },
   },
 };

@@ -1,17 +1,16 @@
 <script>
   import '../app.css';
   import Navbar from '$lib/components/Navbar.svelte';
-  import { base } from '$app/paths';
 
   let { children } = $props();
 </script>
 
 <svelte:head>
   <title>Reagan Academic UIL</title>
-  <link rel="shortcut icon" type="shortcut icon" href="favicon.ico" />
+  <link rel="shortcut icon" type="shortcut icon" href="/favicon.ico" />
 </svelte:head>
 <div id="__next">
-  <Navbar {base} />
+  <Navbar/>
   <main>
     {@render children()}
   </main>
