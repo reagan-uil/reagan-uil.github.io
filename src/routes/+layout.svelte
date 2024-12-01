@@ -8,20 +8,14 @@
 <svelte:head>
   <title>Reagan Academic UIL</title>
   <link rel="shortcut icon" type="shortcut icon" href="/favicon.ico" />
+  <meta
+    name="google-site-verification"
+    content="1DNu9e5DGIMB-kTv1OlTyWpkv76NKQ3Lqpp_D_2Y3d8"
+  />
 </svelte:head>
 <div id="__next">
   <Navbar />
   <main>
     {@render children()}
   </main>
-  <footer>
-    <p>
-      Contribute to this website at <a
-        class="underline"
-        href="https://github.com/reagan-uil/reagan-uil.github.io"
-        target="_blank">our repo!</a
-      >
-    </p>
-    <p>Built with Svelte</p>
-  </footer>
 </div>
