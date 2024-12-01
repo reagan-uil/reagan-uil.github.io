@@ -81,6 +81,7 @@ footer {
 }
 .navbar a,
 .navbar .dropdown {
+  font-size: 16px;
   padding-right: 8px;
 }
 .dropbtn {
