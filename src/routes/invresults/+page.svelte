@@ -7,13 +7,20 @@
   <div>
     <h1>Madison Invitational Meet</h1>
     <p>This meet was held on December 7, 2024.</p>
+    <li>
+      Computer Science (written only) - team 1st place, Jack Mitchell - 2nd
+      place, Levi Doles - 3rd place, Mohit Singh - 9th place, Kaitlin Tredmeyer
+      - 5th place novice
+    </li>
     <li>Number Sense - Aarnav Shah - 8th place, Levi Doles - 10th place</li>
-    <li>Calculator Applications - Yashwanth Movva - 9th place</li>
+    <li>Calculator Applications - Yashwanth Movva - 3rd place novice</li>
     <li>Mathematics - Aarnav Shah - 3rd place, Levi Doles - 4th place</li>
     <li>
       Science - Angela Huang - 8th place 11/12th, Aarnav Shah - 6th place
       9th/10th
     </li>
+    <li>Spelling - Paige Opaska - 2nd place, Mariana Montemayor - 4th place</li>
+    <li>Literary Criticism - Summer Cearley - 6th place</li>
   </div>
   <div>
     <h1>Roosevelt Invitational Meet</h1>
