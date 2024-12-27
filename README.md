@@ -3,9 +3,9 @@ You can find the website for this project at
 
 # About
 
-This is the website for the Reagan UIL team.
+This is the website for the Reagan Academic UIL team.
 
-It contains information about every event and contact information for our sponsors.
+It contains information about every event, as well as contact information for our sponsors.
 
 District, Region and State results will be posted here.
 
