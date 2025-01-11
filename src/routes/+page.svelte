@@ -36,13 +36,3 @@
     and Science. Results for all events have been posted.
   </li>
 </ul>
-<footer>
-  <p>
-    Contribute to this website at <a
-      class="underline"
-      href="https://github.com/reagan-uil/reagan-uil.github.io"
-      target="_blank">our repo!</a
-    >
-  </p>
-  <p>Built with Svelte</p>
-</footer>

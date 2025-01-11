@@ -22,9 +22,19 @@
     content="1DNu9e5DGIMB-kTv1OlTyWpkv76NKQ3Lqpp_D_2Y3d8"
   />
 </svelte:head>
-<div id="__next">
+<div>
   <Navbar />
   <main>
     {@render children()}
+    <footer>
+      <p>Made by William Liu and David Zhao, 2025</p>
+      <p>
+        Contribute to this website at <a
+          class="underline"
+          href="https://github.com/reagan-uil/reagan-uil.github.io"
+          target="_blank">our repo!</a
+        >
+      </p>
+    </footer>
   </main>
 </div>
