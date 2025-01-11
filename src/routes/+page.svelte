@@ -31,8 +31,7 @@
 <h1>Updates</h1>
 <ul>
   <li>
-    Our first meet of the season was on Saturday, November 2, 2024, at Roosevelt
-    High School. Events held were Math, Number Sense, Calculator Applications
-    and Science. Results for all events have been posted.
+    Our next meet of the season will be on Saturday, January 25, 2024, at
+    Johnson High School. Contact a sponsor to sign up!
   </li>
 </ul>
