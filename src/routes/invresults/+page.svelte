@@ -5,11 +5,45 @@
 <Header name="Invitational Results" />
 <div>
   <div>
+    <h1>Johnson Invitational Meet</h1>
+    <p>
+      This meet was held on January 25, 2025. Reagan won 1st place sweepstakes
+      at the meet!
+    </p>
+    <li>Current Events - Max Farber - 8th place</li>
+    <li>
+      Literary Criticism - team 1st place, Catalina Linton - 2nd place, Esha
+      Manandhar - 4th place
+    </li>
+    <li>
+      Spelling - team 2nd place, Paige Opaska - 1st place, Mariana Montemayor -
+      7th place
+    </li>
+    <li>
+      Computer Science - team 2nd place, Jack Mitchell - 2nd place, Levi Doles -
+      3rd place, Logan Green - 6th place novice, Kaitlin Tredemeyer - 7th place
+      novice
+    </li>
+    <li>
+      Number Sense - team 1st place, William Liu - 2nd place, Levi Doles - 5th
+      place
+    </li>
+    <li>
+      Calculator Applications - William Liu - 2nd place, Yashwanth Movva - 9th
+      place novice
+    </li>
+    <li>
+      Mathematics - team 1st place, William Liu - 1st place, Levi Doles - 2nd
+      place, Aarnav Shah - 3rd place, Mohit Singh - 6th place
+    </li>
+    <li>Science - Aarnav Shah - 9th place novice</li>
+  </div>
+  <div>
     <h1>Madison Invitational Meet</h1>
     <p>This meet was held on December 7, 2024.</p>
     <li>
       Computer Science (written only) - team 1st place, Jack Mitchell - 2nd
-      place, Levi Doles - 3rd place, Mohit Singh - 9th place, Kaitlin Tredmeyer
+      place, Levi Doles - 3rd place, Mohit Singh - 9th place, Kaitlin Tredemeyer
       - 5th place novice
     </li>
     <li>Number Sense - Aarnav Shah - 8th place, Levi Doles - 10th place</li>

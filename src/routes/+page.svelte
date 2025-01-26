@@ -30,8 +30,9 @@
 <hr />
 <h1>Updates</h1>
 <ul>
+  <li>Results from the Johnson meet have been posted. Reagan won 1st place sweepstakes!</li>
   <li>
-    Our next meet of the season will be on Saturday, January 25, 2024, at
-    Johnson High School. Contact a sponsor to sign up!
+    Our next meet of the season will be on Saturday, February 8, 2025, at
+    MacArthur High School. Contact a sponsor to sign up!
   </li>
 </ul>
