@@ -338,12 +338,6 @@ export const posts = [
         another, which is about properly editing a document for any grammatical
         errors and related things.
       </p>
-    <li>Ready Writing:</li>
-<ul>
-<li>2 hours</li>
-<li>Write a detailed essay regarding one of two quotes</li>
-</ul>
-
 <li>Copy Editing:</li>
 <ul>
 <li>15 minutes</li>
@@ -416,12 +410,6 @@ target="_blank">Headling Writing PPT</a
 <a
 href="https://www.uiltexas.org/files/academics/journalism/2021_Newswritingedit.pdf"
 target="_blank">News Writing PPT</a
->
-</li>
-<li>
-<a
-href="https://www.uiltexas.org/files/academics/4A-ready_writing_state_champ_06.pdf"
-target="_blank">2016 4A State Champion Ready Writing Essay</a
 >
 </li>
       </ul>`,

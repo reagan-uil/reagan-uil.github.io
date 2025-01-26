@@ -9,7 +9,7 @@
 </header>
 <h2>Welcome!</h2>
 <h2>
-  Reagan Academic UIL proudly competes in 21 events spanning from the sciences
+  Reagan Academic UIL proudly competes in 18 events spanning from the sciences
   to the humanities and more!
 </h2>
 <p>For a full list, see <a href="{base}/events">here.</a></p>
@@ -19,7 +19,6 @@
   <li>Learn new skills</li>
   <li>Make new friends</li>
   <li>Compete against other students and other schools</li>
-  <li>Look good on college applications</li>
   <li>Have fun!</li>
 </ul>
 <a href="why.pdf" target="_blank">Students tell us what they gained from UIL.</a
@@ -30,7 +29,10 @@
 <hr />
 <h1>Updates</h1>
 <ul>
-  <li>Results from the Johnson meet have been posted. Reagan won 1st place sweepstakes!</li>
+  <li>
+    Results from the Johnson meet have been posted. Reagan won 1st place
+    sweepstakes!
+  </li>
   <li>
     Our next meet of the season will be on Saturday, February 8, 2025, at
     MacArthur High School. Contact a sponsor to sign up!
