@@ -9,7 +9,7 @@
 </header>
 <h2>Welcome!</h2>
 <h2>
-  Reagan Academic UIL proudly competes in 18 events spanning from the sciences
+  Reagan Academic UIL proudly competes in 19 events spanning from the sciences
   to the humanities and more!
 </h2>
 <p>For a full list, see <a href="{base}/events">here.</a></p>

@@ -6,15 +6,16 @@
 <h2>Events</h2>
 <ul>
   <li>Accounting</li>
-  <li>Current Issues</li>
+  <li>Computer Applications</li>
+  <li>Current Events</li>
   <li>
     Journalism
     <ul>
-      <li>News Writing</li>
-      <li>Feature Writing</li>
-      <li>Editorial Writing</li>
-      <li>Headline Writing</li>
       <li>Copy Editing</li>
+      <li>Editorial Writing</li>
+      <li>Feature Writing</li>
+      <li>Headline Writing</li>
+      <li>News Writing</li>
     </ul>
   </li>
   <li>Literary Criticism</li>
