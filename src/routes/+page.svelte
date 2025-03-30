@@ -30,11 +30,8 @@
 <h1>Updates</h1>
 <ul>
   <li>
-    Results from the Johnson meet have been posted. Reagan won 1st place
-    sweepstakes!
-  </li>
-  <li>
-    Our next meet of the season will be on Saturday, February 8, 2025, at
-    MacArthur High School. Contact a sponsor to sign up!
+    UIL Districts was held on Saturday, March 29, 2025. Reagan placed 3rd
+    overall. Congratulations to everyone who participated, and a big shoutout to
+    all of our Region qualifiers!
   </li>
 </ul>
