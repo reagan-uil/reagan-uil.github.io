@@ -5,7 +5,6 @@
 <header>
   <h1>Reagan High School Academic UIL</h1>
   <img src="reaganlogo.png" alt="Reagan HS Logo" height="50px" />
-  <h2>We are more than a club. We are a <b>team</b>.</h2>
 </header>
 <h2>Welcome!</h2>
 <h2>
