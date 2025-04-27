@@ -27,7 +27,6 @@
   <main>
     {@render children()}
     <footer>
-      <p>Made by William Liu and David Zhao, 2025</p>
       <p>
         Contribute to this website at <a
           class="underline"
