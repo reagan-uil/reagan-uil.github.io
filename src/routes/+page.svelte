@@ -29,6 +29,6 @@
 <h1>Updates</h1>
 <ul>
   <li>
-    UIL Regionals was held on Saturday, April 26, 2025. Congratulations to everyone who competed!
+    UIL Regionals was held on Saturday, April 26, 2025. Congratulations to everyone who competed, and shoutout to William for qualifying for State!
   </li>
 </ul>
