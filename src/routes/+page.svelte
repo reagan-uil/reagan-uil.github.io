@@ -29,8 +29,6 @@
 <h1>Updates</h1>
 <ul>
   <li>
-    UIL Districts was held on Saturday, March 29, 2025. Reagan placed 3rd
-    overall. Congratulations to everyone who participated, and a big shoutout to
-    all of our Region qualifiers!
+    UIL Regionals was held on Saturday, April 26, 2025. Congratulations to everyone who competed!
   </li>
 </ul>
