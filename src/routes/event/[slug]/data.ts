@@ -66,7 +66,7 @@ export const posts = [
       name: 'Mrs. Eastwood',
       email: 'keastw',
       room: 'TN317',
-      time: 'Tuesdays 4:30 to 5:30',
+      time: 'TBD',
     },
     content: `<p>
         As the name might suggest, this competition revolves a lot around
@@ -421,7 +421,7 @@ target="_blank">News Writing PPT</a
       name: 'Mr. DiPiazza',
       email: 'pdipia',
       room: 'FA101',
-      time: 'Tuesdays 4:30 to 5:30',
+      time: 'TBD',
     },
     content: `<p>
         Literary Criticism is about analyzing famous literary works and
@@ -449,7 +449,7 @@ target="_blank">News Writing PPT</a
       name: 'Mrs. Eastwood',
       email: 'keastw',
       room: 'TN317',
-      time: 'Tuesdays 4:30 to 5:30',
+      time: 'TBD',
     },
     content: `<p>
         Math in general! If you've seen TMSCA middle school tests, think about
@@ -489,7 +489,7 @@ target="_blank">News Writing PPT</a
       name: 'Mrs. Eastwood',
       email: 'keastw',
       room: 'TN317',
-      time: 'Tuesdays 4:30 to 5:30',
+      time: 'TBD',
     },
     content: `<p>
         This competition is quite literally the definition of speed. Number
@@ -569,7 +569,7 @@ target="_blank">News Writing PPT</a
       name: 'Ms. McCormick',
       email: 'emccor',
       room: 'MT405',
-      time: 'Thursdays 4:30 to 5:00',
+      time: 'TBD',
     },
     content: `<p>
         Science is a very vast field, so as you'd expect UIL Science covers a
